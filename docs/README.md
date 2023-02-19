@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: "/yinu.jpg"
+heroImage: "/brick.jpg"
 # heroText: "Day Day No Bug"
 heroImageStyle:
   {
